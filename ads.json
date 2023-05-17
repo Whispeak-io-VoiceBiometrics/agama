@@ -1,1 +1,13 @@
-{}
+{
+    "Test": {
+        "projectName": "Test",
+        "description": "Test",
+        "type": "community",
+        "author": "Whispeak-io-VoiceBiometrics",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Whispeak-io-VoiceBiometrics/agama",
+        "githubUri": "https://github.com/Whispeak-io-VoiceBiometrics/agama",
+        "license": "MIT",
+        "lastUpdated": "1684315576169"
+    }
+}
